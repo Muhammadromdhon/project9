@@ -151,7 +151,7 @@ akhir = round((float(tugas) * 0.3)+(float(uts) * 0.35)+(float(uas) * 0.35),2)
 ```
 * Penggunaan Database.txt
 Berguna untuk menyimpan data dari inputan. <br>
-![captures](foto/text.png)
+![database](foto/database.png)
 
 ### Berikut Source code lengkapnya...
 ```python
