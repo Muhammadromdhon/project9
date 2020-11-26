@@ -93,7 +93,7 @@ print("==================================================================")
 ```
 
 #### Berikut Outputnya:
-![praktikum4](foto/praktikum4.png)
+![4](foto/4.png)
 
 
 
@@ -344,7 +344,7 @@ while True:
 
 ```
 ### Hasil dari source code diatas : <br>
-![praktiikum5](foto/praktikum5.png)
+![5](foto/5.png)
 
 
 ### SEKIAN TERIMAKASIH <br>
